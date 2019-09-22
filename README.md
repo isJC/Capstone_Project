@@ -1,2 +1,3 @@
 # Capstone_Project
-Course Assignment
+
+This respository is mainly for Course Assignments
